@@ -5,5 +5,5 @@ ${\textsf{\color{#1f7cee} I BITE, BUT I WONT BITE TO A PERSON WHO IS FRIENDLY! .
 
 
 ${\textsf{\color{#1f7cee} I }}$
-${\textsf{\color{#3c87e4} Kin  . }}$
-${\textsf{\color{#72acf3} Four! . }}$
+${\textsf{\color{#3c87e4} Kin   }}$
+${\textsf{\color{#72acf3} Four!  }}$
