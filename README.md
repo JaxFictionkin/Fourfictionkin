@@ -15,3 +15,5 @@ ${\textsf{\color{#3c87e4} love }}$
 ${\textsf{\color{#1f7cee} my }}$
 ${\textsf{\color{#72acf3} oomfies }}$
 ${\textsf{\color{#3c87e4} <3 . }}$
+
+https://dashiicorn.straw.page
