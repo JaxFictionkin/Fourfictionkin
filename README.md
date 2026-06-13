@@ -16,4 +16,18 @@ ${\textsf{\color{#1f7cee} my }}$
 ${\textsf{\color{#72acf3} oomfies }}$
 ${\textsf{\color{#3c87e4} <3 . }}$
 
+check out my strawpage ♡
+
 https://dashiicorn.straw.page
+
+follow my pinterest 
+
+https://pin.it/5uZEdsToU
+
+${\textsf{\color{#72acf3} I'm }}$
+${\textsf{\color{#3c87e4} so }}$
+${\textsf{\color{#1f7cee} J }}$
+${\textsf{\color{#72acf3} O }}$
+${\textsf{\color{#3c87e4} L }}$
+${\textsf{\color{#1f7cee} L }}$
+${\textsf{\color{#72acf3} Y! }$
