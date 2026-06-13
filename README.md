@@ -30,4 +30,4 @@ ${\textsf{\color{#1f7cee} J }}$
 ${\textsf{\color{#72acf3} O }}$
 ${\textsf{\color{#3c87e4} L }}$
 ${\textsf{\color{#1f7cee} L }}$
-${\textsf{\color{#72acf3} Y! }$
+${\textsf{\color{#72acf3} Y }}$
